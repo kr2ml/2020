@@ -1,35 +1,39 @@
 # --- General options --- #
 
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+
+# If you are building a simple GitHub user page (https://username.github.io) then use these settings:
+#url: "https://kr2ml.github.io"
+#baseurl: ""
+
+# If you are building a GitHub project page then use these settings:
+url: "https://kr2ml.github.io"
+baseurl: "/2019"
+
+# Of course don't forget to change the username and projectname to YOUR username and project
+
 # Name of website
-title: My website
+title: KR2ML Workshop at NeurIPS'19
 
 # Short description of your site
-description: A virtual proof that I'm awesome
-
-# --- Local development options ---
-# If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
-# *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
-
-# url is the the website domain URL without a trailing slash
-#url: "https://example.com"
-url: "https://kr2ml.github.io"
-baseurl: "/ibm-2019"
-# baseurl should be an empty string
-#baseurl: ""
+description: Knowledge Representation & Reasoning Meets Machine Learning
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  About: "#about"
+  Program: "#program"
+  Speakers: "#speakers"
+    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    # - Learn markdown: "http://www.markdowntutorial.com/"
+    # - GitHub Pages: "https://pages.github.com/"
+  Organizers: "#organizers"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+# avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -61,7 +65,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: .
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -70,10 +74,11 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  # facebook: daattali
+  # github: daattali
+  # twitter: daattali
 #  reddit: yourname
+#  google-plus: +DeanAttali
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -90,11 +95,12 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
+  google: false
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "kr2ml.github.io/2019"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -127,13 +133,13 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
 
-# To use Staticman comments, fill in repository, branch, and endpoint
+# Staticman support
 staticman:
   repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
+  branch     : # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
   reCaptcha:
-    # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
+    # reCaptcha for Staticman (OPTIONAL)
     # If you use reCaptcha, you must also set these parameters in staticman.yml
     siteKey  : # Use your own site key, you need to apply for one on Google
     secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
