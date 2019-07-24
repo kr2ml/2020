@@ -13,7 +13,7 @@ description: A virtual proof that I'm awesome
 # url is the the website domain URL without a trailing slash
 #url: "https://example.com"
 url: "https://kr2ml.github.io/ibm-2019"
-baseurl: "/ibm-2019"
+baseurl: ""
 # baseurl should be an empty string
 #baseurl: ""
 
