@@ -1,7 +1,7 @@
 ---
 layout: page
 title: KR2ML
-subtitle: Workshop on the Interaction Between Knowledge Representation & Reasoning and Machine Learning
+subtitle: Knowledge Representation & Reasoning Meets Machine Learning
 use-site-title: true
 ---
 
