@@ -31,6 +31,8 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
 - [Sameer Singh](http://www.sameersingh.org/)
 - [Christopher Ré](https://cs.stanford.edu/people/chrismre/)
 
+Contact: kr2ml.ws@gmail.com
+
 <!-- <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
