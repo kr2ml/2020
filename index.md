@@ -33,9 +33,8 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
 
 
 {% include dates.md %}
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  
+
+<div class="container" style="padding=20px 20px 20px 20px"/>
 
 # Organizers
 
