@@ -32,7 +32,7 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
 # Important Dates 
 
 
-<div class="container" style="margin: 15px;padding: 20px">
+<div class="container" style="margin: 15px;padding: 20px 20px">
   {% include dates.md %}
 </div>
 
