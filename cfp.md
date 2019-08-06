@@ -57,7 +57,4 @@ Please email any enquiries to [kr2ml.ws@gmail.com](mailto:kr2ml.ws@gmail.com)
 
 ## Important Dates 
 
-| ------------- |:-------------:|
-| **Submission** | September 13 (midnight Pacific Time) |
-| **Notification** | September 30 |
-| **Workshop** | December 13 or 14 (TBD) |
+{% include dates.md %}
