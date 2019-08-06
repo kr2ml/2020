@@ -45,7 +45,7 @@ We have three types for submissions for the workshop:
 
 Submissions to KR2ML 2019 are limited to the above pages of content, and may contain any number of pages for references. Appendices can be included beyond the references in the same PDF file, but may not be considered by the reviewers.
 
-The submission process is not strictly double-blind, but for works currently under double-blind review, we recommend the authors retain anonymity in their submitted work. The assigned reviewers will not be shared with the individual authors.
+The submission process is not strictly double-blind but, for works currently under double-blind review, we recommend the authors retain anonymity in their submitted work. The assigned reviewers will not be shared with the individual authors.
 
 All submissions must be formatted with LaTeX using the NeurIPS paper format: <https://nips.cc/Conferences/2019/PaperInformation/StyleFiles>
 
