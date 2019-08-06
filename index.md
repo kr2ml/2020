@@ -33,7 +33,9 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
 
 
 {% include dates.md %}
-
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  
 
 # Organizers
 
