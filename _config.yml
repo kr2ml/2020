@@ -262,12 +262,12 @@ organizers:
   veronika:
     name: "Veronika Thost"
     url: "https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Veronika.Thost"
-    affiliation: "IBM Watson AI Lab"
+    affiliation: "MIT-IBM Watson AI Lab"
     img: "vthost.jpg"
   christian:
     name: "Christian Muise"
     url: "http://www.haz.ca/"
-    affiliation: "IBM Watson AI Lab"
+    affiliation: "MIT-IBM Watson AI Lab"
     img: "christian.jpg"
   kartik:
     name: "Kartik Talamadupula"
