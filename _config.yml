@@ -296,11 +296,11 @@ speakers:
     url: "http://lunadong.com/"
     affiliation: "Amazon"
     img: "ldong.jpeg"
-  oetzioni:
-    name: "Oren Etzioni"
-    url: "https://allenai.org/team/orene/"
-    affiliation: "Allen Institute for Artificial Intelligence (AI2)"
-    img: "oetzioni.jpg"
+#   oetzioni:
+#     name: "Oren Etzioni"
+#     url: "https://allenai.org/team/orene/"
+#     affiliation: "Allen Institute for Artificial Intelligence (AI2)"
+#     img: "oetzioni.jpg"
   frossi:
     name: "Francesa Rossi"
     url: "https://www.itu.int/en/ITU-T/AI/Pages/rossi.aspx"
