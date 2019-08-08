@@ -46,4 +46,8 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
   </div>
 </div>
 
+# Related Workshops
+
+- [IJCAI Workshop on Neural-Symbolic Learning and Reasoning (NeSys'19)](https://sites.google.com/view/nesy2019/home), see more on <http://www.neural-symbolic.org/>
+
 Contact: <kr2ml.ws@gmail.com>.
