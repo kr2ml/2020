@@ -286,6 +286,11 @@ organizers:
     img: "chrisre.png"
 
 speakers:
+  yejin:
+    name: "Yejin Choi"
+    url: "https://homes.cs.washington.edu/~yejin/"
+    affiliation: "University of Washington/AI2"
+    img: "yejin.jpg"
   wcohen:
     name: "William W. Cohen"
     url: "http://www.cs.cmu.edu/~wcohen/"
@@ -296,11 +301,11 @@ speakers:
     url: "http://lunadong.com/"
     affiliation: "Amazon"
     img: "ldong.jpeg"
-#   oetzioni:
-#     name: "Oren Etzioni"
-#     url: "https://allenai.org/team/orene/"
-#     affiliation: "Allen Institute for Artificial Intelligence (AI2)"
-#     img: "oetzioni.jpg"
+  #   oetzioni:
+  #     name: "Oren Etzioni"
+  #     url: "https://allenai.org/team/orene/"
+  #     affiliation: "Allen Institute for Artificial Intelligence (AI2)"
+  #     img: "oetzioni.jpg"
   frossi:
     name: "Francesca Rossi"
     url: "https://www.itu.int/en/ITU-T/AI/Pages/rossi.aspx"
