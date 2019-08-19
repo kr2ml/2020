@@ -311,6 +311,11 @@ speakers:
     url: "https://www.itu.int/en/ITU-T/AI/Pages/rossi.aspx"
     affiliation: "IBM T.J. Watson Research Center"
     img: "frossi.jpg"
+  guyvdb:
+    name: "Guy Van den Broeck"
+    url: "https://web.cs.ucla.edu/~guyvdb/"
+    affiliation: "UC Los Angeles"
+    img: "guyvdb.jpg"
   mwitbrock:
     name: "Michael Witbrock"
     url: "http://www.science.auckland.ac.nz/people/profile/m-witbrock"
