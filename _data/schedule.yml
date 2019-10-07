@@ -1,0 +1,96 @@
+opening:
+  event: "Opening Remarks"
+  start: "8:00"
+  type: "General"
+wcohen:
+  event: "wcohen"
+  start: "8:05"
+  type: "Invited"
+contrib1:
+  event: "paper1"
+  start: "8:35"
+  type: "Contributed"
+contrib2:
+  event: "paper2"
+  start: "8:50"
+  type: "Contributed"
+contrib3:
+  event: "paper3"
+  start: "9:05"
+  type: "Contributed"
+spotlightsA:
+  event: "Poster Spotlights A"
+  start: "9:20"
+  type: "Spotlights"
+break1:
+  event: "Coffee + Poster Session"
+  start: "9:45"
+  type: "Break"
+ldong:
+  event: "ldong"
+  start: "10:30"
+  type: "Invited"
+contrib4:
+  event: "paper4"
+  start: "11:00"
+  type: "Contributed"
+contrib5:
+  event: "paper5"
+  start: "11:15"
+  type: "Contributed"
+contrib6:
+  event: "paper6"
+  start: "11:30"
+  type: "Contributed"
+contrib7:
+  event: "paper7"
+  start: "11:45"
+  type: "Contributed"
+tba:
+  event: "tba"
+  start: "12:00"
+  type: "Invited"
+lunch:
+  event: "Lunch"
+  start: "12:30"
+  type: "Break"
+frossi:
+  event: "frossi"
+  start: "2:00"
+  type: "Invited"
+contrib8:
+  event: "paper8"
+  start: "2:30"
+  type: "Contributed"
+contrib9:
+  event: "paper9"
+  start: "2:45"
+  type: "Contributed"
+contrib10:
+  event: "paper10"
+  start: "3:00"
+  type: "Contributed"
+spotlightsB:
+  event: "Poster Spotlights B"
+  start: "3:15"
+  type: "Spotlights"
+break:
+  event: "Coffee + Poster Session"
+  start: "3:30"
+  type: "Break"
+guyvdb:
+  event: "guyvdb"
+  start: "4:15"
+  type: "Invited"
+yejin:
+  event: "yejin"
+  start: "4:45"
+  type: "Invited"
+panel:
+  event: "Discussion Panel"
+  start: "5:15"
+  type: "General"
+closing:
+  event: "Closing Remarks"
+  start: "5:55"
+  type: "General"
