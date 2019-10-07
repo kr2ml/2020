@@ -1,0 +1,35 @@
+yejin:
+  name: "Yejin Choi"
+  url: "https://homes.cs.washington.edu/~yejin/"
+  affiliation: "University of Washington/AI2"
+  img: "yejin.jpg"
+wcohen:
+  name: "William W. Cohen"
+  url: "http://www.cs.cmu.edu/~wcohen/"
+  affiliation: "Google AI"
+  img: "wcohen.jfif"
+ldong:
+  name: "Xin Luna Dong"
+  url: "http://lunadong.com/"
+  affiliation: "Amazon"
+  img: "ldong.jpeg"
+#   oetzioni:
+#     name: "Oren Etzioni"
+#     url: "https://allenai.org/team/orene/"
+#     affiliation: "Allen Institute for Artificial Intelligence (AI2)"
+#     img: "oetzioni.jpg"
+frossi:
+  name: "Francesca Rossi"
+  url: "https://www.itu.int/en/ITU-T/AI/Pages/rossi.aspx"
+  affiliation: "IBM T.J. Watson Research Center"
+  img: "frossi.jpg"
+guyvdb:
+  name: "Guy Van den Broeck"
+  url: "https://web.cs.ucla.edu/~guyvdb/"
+  affiliation: "UC Los Angeles"
+  img: "guyvdb.jpg"
+mwitbrock:
+  name: "Michael Witbrock"
+  url: "http://www.science.auckland.ac.nz/people/profile/m-witbrock"
+  affiliation: "University of Auckland"
+  img: "mwitbrock.png"

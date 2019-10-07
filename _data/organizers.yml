@@ -1,0 +1,25 @@
+veronika:
+  name: "Veronika Thost"
+  url: "https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Veronika.Thost"
+  affiliation: "MIT-IBM Watson AI Lab"
+  img: "vthost.jpg"
+christian:
+  name: "Christian Muise"
+  url: "http://www.haz.ca/"
+  affiliation: "MIT-IBM Watson AI Lab"
+  img: "christian.jpg"
+kartik:
+  name: "Kartik Talamadupula"
+  url: "http://www.ktalamad.com/"
+  affiliation: "IBM Research"
+  img: "kartik.jpg"
+sameer:
+  name: "Sameer Singh"
+  url: "http://sameersingh.org"
+  affiliation: "University of California, Irvine"
+  img: "sameer.jpg"
+chrisre:
+  name: "Chris Ré"
+  url: "https://cs.stanford.edu/people/chrismre/"
+  affiliation: "Stanford University"
+  img: "chrisre.png"

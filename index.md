@@ -22,7 +22,7 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
 
 <div class="container">
   <div class="row">
-  {% for p in site.speakers %}
+  {% for p in site.data.speakers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
   {% include profile.html p=p %}
   {% endfor %}
@@ -39,7 +39,7 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
 <!-- prettier-ignore -->
 <div class="container">
   <div class="row">
-    {% for p in site.organizers %}
+    {% for p in site.data.organizers %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% include profile.html p=p %}
     {% endfor %}
