@@ -28,13 +28,8 @@ guyvdb:
   url: "https://web.cs.ucla.edu/~guyvdb/"
   affiliation: "UC Los Angeles"
   img: "guyvdb.jpg"
-mwitbrock:
-  name: "Michael Witbrock"
-  url: "http://www.science.auckland.ac.nz/people/profile/m-witbrock"
-  affiliation: "University of Auckland"
-  img: "mwitbrock.png"
-tba:
-  name: "TBA"
-  url: ""
-  affiliation: "TBA"
-  img: ""
+svivek:
+  name: "Vivek Srikumar"
+  url: "https://svivek.com"
+  affiliation: "University of Utah"
+  img: "svivek.jpg"

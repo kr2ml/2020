@@ -46,8 +46,8 @@ contrib7:
   event: "paper35"
   start: "11:45"
   type: "Contributed"
-tba:
-  event: "tba"
+svivek:
+  event: "svivek"
   start: "12:00"
   type: "Invited"
 lunch:
