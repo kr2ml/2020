@@ -26,8 +26,10 @@ use-site-title: true
           {% assign paper_id = s[1].event %}
           {% assign paper = site.data.papers[paper_id] %}
           <td>
-            <i>{{paper.authors}}</i><br>
-            {{paper.title}} (<a href="{{site.baseurl}}/papers#{{paper_id}}">link</a>)</td>
+            {{ paper.authors }}<br>
+            <i>{{ paper.title }}</i>
+            (<a href="{{ site.baseurl }}/papers/KR2ML_2019_{{ paper_id }}.pdf">PDF</a>)
+          </td>
         {% elsif s[1].type == "Spotlights" %}
           <td>Spotlights</td>
           <td><a href="#{{s[0]}}">{{ s[1].event }}</a></td>
@@ -47,15 +49,16 @@ use-site-title: true
 
 <h1 id="spotlightsA"> Spotlights A </h1>
 
-  {% assign spotlightApapers = "paper1, paper2, paper3, paper5, paper6, paper8, paper11, paper12, paper17, paper21, paper22, paper23, paper26, paper27, paper28, paper29, paper30, paper31, paper33, paper34, paper36, paper37, paper38" | split: ", " %}
+  {% assign spotlightApapers = "paper_1, paper_2, paper_3, paper_5, paper_6, paper_8, paper_11, paper_12, paper_17, paper_21, paper_22, paper_23, paper_26, paper_27, paper_28, paper_29, paper_30, paper_31, paper_33, paper_34, paper_36, paper_37, paper_38" | split: ", " %}
 
   <div class="row">
     <ol>
       {% for p in spotlightApapers %}
         <li>
             {% assign paper = site.data.papers[p] %}
-            <i>{{paper.authors}}</i><br>
-            {{paper.title}} (<a href="{{site.baseurl}}/papers#{{p}}">link</a>)
+            <b>{{ paper.authors }}</b>.
+            <i>{{ paper.title }}</i>
+            (<a href="{{ site.baseurl }}/papers/KR2ML_2019_{{ p }}.pdf">PDF</a>)
         </li>
       {% endfor %}
     </ol>
@@ -63,14 +66,15 @@ use-site-title: true
 
 <h1 id="spotlightsB"> Spotlights B </h1>
 
-  {% assign spotlightBpapers = "paper39, paper40, paper42, paper43, paper44, paper46, paper50, paper54, paper55, paper56, paper57, paper58, paper59, paper62" | split: ", " %}
+  {% assign spotlightBpapers = "paper_39, paper_40, paper_42, paper_43, paper_44, paper_46, paper_50, paper_54, paper_55, paper_56, paper_57, paper_58, paper_59, paper_62" | split: ", " %}
   <div class="row">
     <ol>
       {% for p in spotlightBpapers %}
         <li>
             {% assign paper = site.data.papers[p] %}
-            <i>{{paper.authors}}</i><br>
-            {{paper.title}} (<a href="{{site.baseurl}}/papers#{{p}}">link</a>)
+            <b>{{ paper.authors }}</b>.
+            <i>{{ paper.title }}</i>
+            (<a href="{{ site.baseurl }}/papers/KR2ML_2019_{{ p }}.pdf">PDF</a>)
         </li>
       {% endfor %}
     </ol>

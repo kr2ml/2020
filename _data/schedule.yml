@@ -7,15 +7,15 @@ wcohen:
   start: "8:05"
   type: "Invited"
 contrib1:
-  event: "paper7"
+  event: "paper_7"
   start: "8:35"
   type: "Contributed"
 contrib2:
-  event: "paper13"
+  event: "paper_13"
   start: "8:50"
   type: "Contributed"
 contrib3:
-  event: "paper18"
+  event: "paper_18"
   start: "9:05"
   type: "Contributed"
 spotlightsA:
@@ -31,19 +31,19 @@ ldong:
   start: "10:30"
   type: "Invited"
 contrib4:
-  event: "paper16"
+  event: "paper_16"
   start: "11:00"
   type: "Contributed"
 contrib5:
-  event: "paper25"
+  event: "paper_25"
   start: "11:15"
   type: "Contributed"
 contrib6:
-  event: "paper47"
+  event: "paper_47"
   start: "11:30"
   type: "Contributed"
 contrib7:
-  event: "paper35"
+  event: "paper_35"
   start: "11:45"
   type: "Contributed"
 svivek:
@@ -59,15 +59,15 @@ frossi:
   start: "2:00"
   type: "Invited"
 contrib8:
-  event: "paper52"
+  event: "paper_52"
   start: "2:30"
   type: "Contributed"
 contrib9:
-  event: "paper19"
+  event: "paper_19"
   start: "2:45"
   type: "Contributed"
 contrib10:
-  event: "paper4"
+  event: "paper_4"
   start: "3:00"
   type: "Contributed"
 spotlightsB:

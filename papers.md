@@ -13,6 +13,7 @@ use-site-title: true
         <li id="{{ p[0] }}">
             <b>{{ p[1].authors }}</b>.
             <i>{{ p[1].title }}</i>
+            (<a href="{{ site.baseurl }}/papers/KR2ML_2019_{{ p[0] }}.pdf">PDF</a>)
         </li>
     {% endfor %}
   </ol>

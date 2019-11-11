@@ -1,187 +1,190 @@
-paper1:
+paper_1:
   authors: "Massinissa Hamidi and Aomar Osmani"
   title: "HAR Data Generation Model to Highly Reduce Learning Space"
 
-paper2:
+paper_2:
   authors: "Jiman Kim, Dongha Bahn and Chanjong Park"
   title: "CEN: Classifier Ensemble Networks based on Joint Optimization of Hyperplanes"
 
-paper3:
+paper_3:
   authors: "Xiaoran Xu, Wei Feng, Zhiqing Sun and Zhi-Hong Deng"
-  title: "Neural Consciousness Flow for Knowledge Graph Reasoning"
+  title: "Neural Consciousness Flow"
 
-paper4:
+paper_4:
   authors: "Leonard Adolphs and Thomas Hofmann"
   title: "LeDeepChef: Deep Reinforcement Learning Agent for Families of Text-Based Games"
 
-paper5:
-  authors: "Shih-Chieh Su"
-  title: "Channel Decomposition on Generative Networks"
+paper_5:
+      authors: "Shih-Chieh Su"
+      title: "Channel Decomposition into Painting Actions"
 
-paper6:
+paper_6:
   authors: "Daniel Cunnington, Alessandra Russo, Elisa Bertino and Seraphin Calo"
   title: "Towards a Coalition Focused Neural-Symbolic Generative Policy Model"
 
-paper7:
+paper_7:
   authors: "Li Li, Minjie Fan, Rishabh Singh and Patrick Riley‎"
   title: "Neural-Guided Symbolic Regression with Asymptotic Constraints"
 
-paper8:
+paper_8:
   authors: "Wonseok Hwang, Jinyeong Yim, Seunghyun Park and Minjoon Seo"
-  title: "SQLova: Pushing NL2SQL towards Human Performance"
+  title: "A Comprehensive Exploration on WikiSQL with Table-Aware Word Contextualization"
 
-paper11:
+paper_11:
   authors: "Sarthak Dash, Michael Glass, Alfio Gliozzo and Mustafa Canim"
   title: "Populating Web Scale Knowledge Graphs using Distantly Supervised Relation Extraction and Validation"
 
-paper12:
+paper_12:
   authors: "Alberto Camacho and Sheila A. McIlraith"
-  title: "Neural-Guided Program Synthesis for Linear Temporal Logic Specifications"
+  title: "Towards Neural-Guided Program Synthesis for Linear Temporal Logic Specifications"
 
-paper13:
+paper_13:
   authors: "Zsolt Zombori, Adrián Csiszárik, Henryk Michalewski, Cezary Kaliszyk and Josef Urban"
   title: "Towards Finding Longer Proofs"
 
-paper16:
+paper_16:
   authors: "Simon Odense and Artur Garcez"
   title: "Layerwise Knowledge Extraction from Deep Convolutional Networks"
 
-paper17:
+paper_17:
   authors: "Sainyam Galhotra, Udayan Khurana, Oktie Hassanzadeh, Kavitha Srinivas and Horst Samulowitz"
   title: "KAFE: Automated Feature Enhancement for Predictive Modeling using External Knowledge"
 
-paper18:
+paper_18:
   authors: "Giuseppe Marra and Ondřej Kuželka"
   title: "Neural Markov Logic Networks"
 
-paper19:
-  authors: "Wenhu Chen, Hongmin Wang and Jianshu Chen"
+paper_19:
+  authors: "Wenhu Chen, Hongmin Wang, Jianshu Chen, Yunkai Zhang, Hong Wang, Shiyang Li, Xiyou Zhou and William Wang"
   title: "TabFact: A Large-scale Dataset for Table-based Fact Verification"
 
-paper21:
+paper_21:
   authors: "Shiyang Li, Jianshu Chen and Dian Yu"
   title: "Teaching Pretrained Models with Commonsense Reasoning: A Preliminary KB-Based Approach"
 
-paper22:
-  authors: "Yuyu Zhang, Xinshi Chen and Yuan Yang"
+paper_22:
+  authors: "Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi and Le Song"
   title: "Can Graph Neural Networks Help Logic Reasoning?"
 
-paper23:
-  authors: "Habibeh Naderi Khorshidi, Behrouz Haji Soleimani, Sheri Rempel, Stan Matwin and Rudolf Uher"
+paper_23:
+  authors: "Habibeh Naderi Khorshidi, Behrouz Haji Soleimani, Stan Matwin, Sheri Rempel and Rudolf Uher"
   title: "Multimodal Deep Learning for Mental Disorders Prediction from Audio Speech Samples"
 
-paper25:
+paper_25:
   authors: "Phung Lai, Hai Phan, David Newman, Han Hu, Anuja Badeti and Dejing Dou"
   title: "Ontology-based Interpretable Machine Learning with Learnable Anchors"
 
-paper26:
+paper_26:
   authors: "Zhe Zeng, Fanqi Yan, Paolo Morettin, Antonio Vergari and Guy Van den Broeck"
   title: "Hybrid Probabilistic Inference with Logical Constraints: Tractability and Message-Passing"
 
-paper27:
+paper_27:
   authors: "Pasha Khosravi, Yoojung Choi, Yitao Liang, Antonio Vergari and Guy Van den Broeck"
   title: "On Tractable Computation of Expected Prediction"
 
-paper28:
-  authors: "Pedro Colon-Hernandez"
+paper_28:
+  authors: "Pedro Colon-Hernandez, Henry Lieberman and Catherine Havasi"
   title: "Does a dog desire cake? - Expanding Knowledge Base Assertions Through Deep Relationship Discovery"
 
-paper29:
+paper_29:
   authors: "Vanda Balogh, Gábor Berend, Dimitrios I. Diochnos and György Turán"
   title: "Understanding the semantic content of sparse word embeddings using a commonsense knowledge base"
 
-paper30:
+paper_30:
   authors: "Alberto Camacho and Sheila A. McIlraith"
-  title: "Learning Interpretable Models Expressed in Linear Temporal Logic (Abridged Version)"
+  title: "Learning Interpretable Models Expressed in Linear Temporal Logic"
+  alt_url: "https://aaai.org/ojs/index.php/ICAPS/article/view/3529/3397"
 
-paper31:
+paper_31:
   authors: "Tehseen Zia, Usman Zahid and David Windridge"
   title: "A Generative Adversarial Strategy for Modeling Relation Paths in Knowledge Base Representation Learning"
 
-paper33:
+paper_33:
   authors: "Simo Dragicevic, Artur Garcez and Chris Percy"
   title: "Understanding the Risk Profile of Gambling Behaviour through Machine Learning Predictive Modelling and Explanation"
 
-paper34:
+paper_34:
   authors: "Robin Manhaeve, Sebastijan Dumancic, Angelika Kimmig, Thomas Demeester and Luc De Raedt"
   title: "DeepProbLog: Integrating Logic and Learning through Algebraic Model Counting"
 
-paper35:
+paper_35:
   authors: "Dmitry Kazhdan, Zohreh Shams and Pietro Lio'"
   title: "MARLeME: A Multi-Agent Reinforcement Learning Model Extraction Library"
 
-paper36:
+paper_36:
   authors: "Ionela Mocanu, Vaishak Belle and Brendan Juba"
   title: "PAC + SMT"
 
-paper37:
+paper_37:
   authors: "Lewis Hammond and Vaishak Belle"
   title: "Tractable Probabilistic Models for Moral Responsibility"
 
-paper38:
+paper_38:
   authors: "Giannis Papantonis and Vaishak Belle"
   title: "Interventions and Counterfactuals in Tractable Probabilistic Models"
 
-paper39:
+paper_39:
   authors: "Anton Fuxjaeger and Vaishak Belle"
   title: "Logical Interpretations of Autoencoders"
 
-paper40:
+paper_40:
   authors: "Naveen Sundar Govindarajulu and Colin White"
   title: "Differentiable Functions for Combining First-order Constraints with Deep Learning via Weighted Proof Tracing"
 
-paper42:
+paper_42:
   authors: "Joseph Bockhorst, Devin Conathan and Glenn Fung"
   title: "Knowledge Graph-Driven Conversational Agents"
 
-paper43:
+paper_43:
   authors: "Beliz Gunel, Chenguang Zhu, Michael Zeng and Xuedong Huang"
   title: "Mind The Facts: Knowledge-Boosted Coherent Abstractive Text Summarization"
 
-paper44:
+paper_44:
   authors: "Rosario Uceda-Sosa, Nandana Mihindukulasooriya and Atul Kumar"
-  title: "Building specialized ontologies using LOD and Machine Learning"
+  title: "Domain-agnostic construction of domain-specific ontologies"
 
-paper46:
+paper_46:
   authors: "Alberto Camacho, Rodrigo Toro Icarte, Toryn Q. Klassen, Richard Valenzano and Sheila McIlraith"
-  title: "LTL and Beyond: Formal Languages for Reward Function Specification in RL (Abridged Version)"
+  title: "LTL and Beyond: Formal Languages for Reward Function Specification in Reinforcement Learning"
+  alt_url: "https://www.ijcai.org/proceedings/2019/0840.pdf"
 
-paper47:
+paper_47:
   authors: "T. S. Jayram, Tomasz Kornuta, Vincent Albouy, Emre Sevgen and Ahmet Ozcan"
-  title: "Learning multi-step spatio-temporal reasoning with Selective Attention Memory Network"
+  title: "Learning Multi-Step Spatio-Temporal Reasoning with Selective Attention Memory Network"
 
-paper50:
+paper_50:
   authors: "Radha Manisha Kopparti and Tillman Weyde"
   title: "Weight Priors for Learning Identity Relations"
 
-paper52:
+paper_52:
   authors: "Kezhen Chen, Qiuyuan Huang, Hamid Palangi, Paul Smolensky, Kenneth Forbus and Jianfeng Gao"
   title: "TP-N2F: Tensor Product Representation for Natural To Formal Language Generation"
 
-paper54:
+paper_54:
   authors: "Mohamed Ghalwash, Zijun Yao, Prithwish Chakrabotry, James Codella and Daby Sow"
   title: "Phenotypical Ontology Driven Framework for Multi-Task Learning"
 
-paper55:
+paper_55:
   authors: "Siddhant Arora and Srikanta Bedathur"
   title: "On Embeddings in Relational Databases"
 
-paper56:
+paper_56:
   authors: "León Illanes, Xi Yan, Rodrigo Toro Icarte and Sheila McIlraith"
   title: "Leveraging Symbolic Planning Models in Hierarchical Reinforcement Learning"
 
-paper57:
-  authors: "Susan Zhang and Jonathan Raiman"
+paper_57:
+  authors: "Susan Zhang, Jonathan Raiman and Filip Wolski"
   title: "Knowledge Representation and Long Term Planning in OpenAI Five"
 
-paper58:
+paper_58:
   authors: "Kaylin Hagopian, Qing Wang, Tengfei Ma, Yupeng Gao and Lingfei Wu"
   title: "Learning Logical Representations from Natural Languages with Weak Supervision and Back Translation"
 
-paper59:
+paper_59:
   authors: "Alexander Lew, Monica Agrawal and Vikash Mansinghka"
   title: "PClean: Probabilistic Scripts for Automating Common-Sense Data Cleaning"
 
-paper62:
+paper_62:
   authors: "So Yeon Min, Preethi Raghavan and Peter Szolovits"
   title: "TransINT: Embedding Implication Rules in Knowledge Graphs with Isomorphic Intersections of Linear Subspaces"
+  
