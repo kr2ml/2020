@@ -28,7 +28,12 @@ use-site-title: true
           <td>
             {{ paper.authors }}<br>
             <i>{{ paper.title }}</i>
-            (<a href="{{ site.baseurl }}/papers/KR2ML_2019_{{ paper_id }}.pdf">PDF</a>)
+            {% if paper.alt_url == "" %}
+              (<a href="{{ site.baseurl }}/papers/KR2ML_2019_{{ paper_id }}.pdf">PDF</a>)
+            {% elsif paper.alt_url == "NONE" %}
+            {% else %}
+              (<a href="{{ paper.alt_url }}">PDF</a>)
+            {% endif %}
           </td>
         {% elsif s[1].type == "Spotlights" %}
           <td>Spotlights</td>
@@ -58,7 +63,12 @@ use-site-title: true
             {% assign paper = site.data.papers[p] %}
             <b>{{ paper.authors }}</b>.
             <i>{{ paper.title }}</i>
-            (<a href="{{ site.baseurl }}/papers/KR2ML_2019_{{ p }}.pdf">PDF</a>)
+            {% if paper.alt_url == "" %}
+              (<a href="{{ site.baseurl }}/papers/KR2ML_2019_{{ paper_id }}.pdf">PDF</a>)
+            {% elsif paper.alt_url == "NONE" %}
+            {% else %}
+              (<a href="{{ paper.alt_url }}">PDF</a>)
+            {% endif %}
         </li>
       {% endfor %}
     </ol>
@@ -74,7 +84,12 @@ use-site-title: true
             {% assign paper = site.data.papers[p] %}
             <b>{{ paper.authors }}</b>.
             <i>{{ paper.title }}</i>
-            (<a href="{{ site.baseurl }}/papers/KR2ML_2019_{{ p }}.pdf">PDF</a>)
+            {% if paper.alt_url == "" %}
+              (<a href="{{ site.baseurl }}/papers/KR2ML_2019_{{ paper_id }}.pdf">PDF</a>)
+            {% elsif paper.alt_url == "NONE" %}
+            {% else %}
+              (<a href="{{ paper.alt_url }}">PDF</a>)
+            {% endif %}
         </li>
       {% endfor %}
     </ol>
