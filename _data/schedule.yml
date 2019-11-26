@@ -79,11 +79,11 @@ break:
   start: "3:30"
   type: "Break"
 guyvdb:
-  event: "guyvdb"
+  event: "yejin"
   start: "4:15"
   type: "Invited"
 yejin:
-  event: "yejin"
+  event: "guyvdb"
   start: "4:45"
   type: "Invited"
 panel:
