@@ -64,7 +64,7 @@ use-site-title: true
             <b>{{ paper.authors }}</b>.
             <i>{{ paper.title }}</i>
             {% if paper.alt_url == "" %}
-              (<a href="{{ site.baseurl }}/papers/KR2ML_2019_{{ paper_id }}.pdf">PDF</a>)
+              (<a href="{{ site.baseurl }}/papers/KR2ML_2019_{{ p }}.pdf">PDF</a>)
             {% elsif paper.alt_url == "NONE" %}
             {% else %}
               (<a href="{{ paper.alt_url }}">PDF</a>)
@@ -85,7 +85,7 @@ use-site-title: true
             <b>{{ paper.authors }}</b>.
             <i>{{ paper.title }}</i>
             {% if paper.alt_url == "" %}
-              (<a href="{{ site.baseurl }}/papers/KR2ML_2019_{{ paper_id }}.pdf">PDF</a>)
+              (<a href="{{ site.baseurl }}/papers/KR2ML_2019_{{ p }}.pdf">PDF</a>)
             {% elsif paper.alt_url == "NONE" %}
             {% else %}
               (<a href="{{ paper.alt_url }}">PDF</a>)
