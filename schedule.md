@@ -7,6 +7,9 @@ use-site-title: true
 
 # Schedule
 
+#### Friday, December 13, 2019
+#### Location: West 109 + 110, Area West Level 1
+
 <div class="container">
   <div class="row">
     <table class="table">
