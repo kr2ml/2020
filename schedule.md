@@ -57,7 +57,7 @@ use-site-title: true
 
 <h1 id="spotlightsA"> Spotlights A </h1>
 
-  {% assign spotlightApapers = "paper_2, paper_3, paper_5, paper_6, paper_8, paper_11, paper_12, paper_17, paper_21, paper_22, paper_23, paper_26, paper_27, paper_28, paper_29, paper_31, paper_33, paper_34, paper_36, paper_37, paper_38, paper_39, paper_40" | split: ", " %}
+  {% assign spotlightApapers = "paper_2, paper_3, paper_5, paper_6, paper_8, paper_11, paper_12, paper_21, paper_22, paper_23, paper_26, paper_27, paper_28, paper_29, paper_31, paper_33, paper_34, paper_36, paper_37, paper_38, paper_39, paper_40, paper_42" | split: ", " %}
 
   <div class="row">
     <ol>
@@ -79,7 +79,7 @@ use-site-title: true
 
 <h1 id="spotlightsB"> Spotlights B </h1>
 
-  {% assign spotlightBpapers = "paper_30, paper_42, paper_43, paper_44, paper_46, paper_50, paper_54, paper_55, paper_56, paper_57, paper_58, paper_59, paper_62" | split: ", " %}
+  {% assign spotlightBpapers = "paper_17, paper_30, paper_43, paper_44, paper_46, paper_50, paper_54, paper_55, paper_56, paper_57, paper_58, paper_59, paper_62" | split: ", " %}
   <div class="row">
     <ol>
       {% for p in spotlightBpapers %}
