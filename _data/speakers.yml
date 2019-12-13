@@ -3,7 +3,7 @@ yejin:
   url: "https://homes.cs.washington.edu/~yejin/"
   affiliation: "University of Washington/AI2"
   img: "yejin.jpg"
-  title: "TBA"
+  title: "Cracking Commonsense AI with Knowledge Modeling and Generative Reasoning"
   abstract: "TBA"
   bio: "TBA"
 wcohen:
@@ -11,7 +11,7 @@ wcohen:
   url: "http://www.cs.cmu.edu/~wcohen/"
   affiliation: "Google AI"
   img: "wcohen.jfif"
-  title: "TBA"
+  title: "Neuro-Symbolic Knowledge Representation"
   abstract: "TBA"
   bio: "TBA"
 ldong:
@@ -32,7 +32,7 @@ frossi:
   url: "https://www.itu.int/en/ITU-T/AI/Pages/rossi.aspx"
   affiliation: "IBM T.J. Watson Research Center"
   img: "frossi.jpg"
-  title: "TBA"
+  title: "Reasoning and Learning Fast and Slow in AI"
   abstract: "TBA"
   bio: "TBA"
 guyvdb:

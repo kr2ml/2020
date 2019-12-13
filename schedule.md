@@ -24,7 +24,13 @@ use-site-title: true
           <td class="success"><b>Invited Talk</b></td>
           {% assign speaker_id = s[1].event %}
           {% assign speaker = site.data.speakers[speaker_id] %}
-          <td class="success"><a href="{{speaker.url}}">{{ speaker.name }}</a>, {{speaker.affiliation}}</td>
+          <td class="success">
+          <a href="{{speaker.url}}">{{ speaker.name }}</a>, {{speaker.affiliation}}
+          {% if speaker.title == "TBA" %}
+          {% else %}
+          : <b>{{ speaker.title }}</b>
+          {% endif %}
+          </td>
         {% elsif s[1].type == "Contributed" %}
           <td><i>Contributed Talk</i></td>
           {% assign paper_id = s[1].event %}
