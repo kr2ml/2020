@@ -37,6 +37,12 @@ use-site-title: true
           {% assign paper = site.data.papers[paper_id] %}
           <td>
             {{ paper.authors }}<br>
+            {% if paper_id == "paper_52" %}
+              <span class="bg-danger">Best Paper:</span> 
+            {% endif %}
+            {% if paper_id == "paper_4" %}
+              <span class="bg-danger">Best Paper:</span> 
+            {% endif %}
             <i>{{ paper.title }}</i>
             {% if paper.alt_url == "" %}
               (<a href="{{ site.baseurl }}/papers/KR2ML_2019_{{ paper_id }}.pdf">PDF</a>)

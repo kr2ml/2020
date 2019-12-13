@@ -11,6 +11,12 @@ use-site-title: true
   <ol>
     {% for p in site.data.papers %}
         <li id="{{ p[0] }}">
+            {% if p[0]] == "paper_52" %}
+              <span class="bg-success">Best Paper:</span> 
+            {% endif %}
+            {% if p[0] == "paper_4" %}
+              <span class="bg-success">Best Paper:</span> 
+            {% endif %}
             <b>{{ p[1].authors }}</b>.
             <i>{{ p[1].title }}</i>
             {% if p[1].alt_url == "" %}
