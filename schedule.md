@@ -9,6 +9,7 @@ use-site-title: true
 
 #### Friday, December 13, 2019
 #### Location: West 109 + 110, Area West Level 1
+#### Live Video Stream: [link](https://slideslive.com/neurips/neurips-2019-west-109-110-live)
 
 <div class="container">
   <div class="row">
