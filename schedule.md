@@ -28,7 +28,7 @@ use-site-title: true
           <a href="{{speaker.url}}">{{ speaker.name }}</a>, {{speaker.affiliation}}
           {% if speaker.title == "TBA" %}
           {% else %}
-          : <b>{{ speaker.title }}</b>
+          <br><b>{{ speaker.title }}</b>
           {% endif %}
           </td>
         {% elsif s[1].type == "Contributed" %}
