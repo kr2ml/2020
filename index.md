@@ -54,6 +54,16 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
   </div>
 </div>
 
+# Program Committee
+<!-- prettier-ignore -->
+<div class="container">
+  <ul class="list-group list-group-flush">
+    {% for p in site.data.pc.people %}
+      <li class="list-group-item col-xs-6 col-sm-4 col-md-3">{{ p }}</li>
+    {% endfor %}
+  </ul>
+</div>
+
 # Related Venues
 
 - [Workshop on Neural-Symbolic Learning and Reasoning (NeSys'19)](https://sites.google.com/view/nesy2019/home), see more on <http://www.neural-symbolic.org/>
