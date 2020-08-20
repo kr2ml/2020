@@ -1,6 +1,6 @@
 ---
 layout: page
-title: KR2ML
+title: KR2ML    <img src="./img/neurips-logo-new.svg" height="110">
 subtitle: Knowledge Representation & Reasoning Meets Machine Learning
 use-site-title: true
 ---
