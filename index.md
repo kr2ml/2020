@@ -1,11 +1,12 @@
 ---
 layout: page
-title: KR2ML    <img src="./img/neurips-logo-new.jpg" height="110">
+title: KR2ML
 subtitle: Knowledge Representation & Reasoning Meets Machine Learning
 use-site-title: true
 ---
 
 <br />
+<meta name="thumbnail" content="./img/neurips-logo-new.jpg" />
 <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5f3db91ed400420012d0a68e&product=inline-share-buttons" async="async"></script>
 <div class="sharethis-inline-share-buttons"></div>
 
