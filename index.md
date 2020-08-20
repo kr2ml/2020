@@ -6,7 +6,6 @@ use-site-title: true
 ---
 
 <br />
-<meta name="thumbnail" content="./img/neurips-logo-new.jpg" />
 <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5f3db91ed400420012d0a68e&product=inline-share-buttons" async="async"></script>
 <div class="sharethis-inline-share-buttons"></div>
 
@@ -24,6 +23,7 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
 -->
 
 # Speakers
+<meta name="thumbnail" content="./img/neurips-logo-new.jpg" />
 
 <div class="container">
   <div class="row">
