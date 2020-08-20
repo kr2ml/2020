@@ -26,9 +26,9 @@ navbar-links:
   About: "#about"
   # Call: "cfp"
   Speakers: "#speakers"
-  Papers: "papers"
+  # Papers: "papers"
   # Dates: "#dates"
-  Schedule: "schedule"
+  # Schedule: "schedule"
   # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   # - Learn markdown: "http://www.markdowntutorial.com/"
   # - GitHub Pages: "https://pages.github.com/"
@@ -103,7 +103,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "kr2ml.github.io/2019" # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "kr2ml.github.io/2020" # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
