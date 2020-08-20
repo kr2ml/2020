@@ -50,14 +50,7 @@ TBD
 
 # Program Committee
 TBD
-<!-- prettier-ignore -->
-<!-- <div class="container">
-  <ul class="list-group list-group-flush">
-    {% for p in site.data.pc.people %}
-      <li class="list-group-item col-xs-6 col-sm-4 col-md-3">{{ p }}</li>
-    {% endfor %}
-  </ul>
-</div> -->
+
 
 # Related Venues
 
