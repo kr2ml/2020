@@ -28,9 +28,7 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
   <div class="row">
   {% for p in site.data.speakers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
-  {% unless p[0] == "tba" %}
   {% include profile.html p=p %}
-  {% endunless %}
   {% endfor %}
   </div>
 </div>
