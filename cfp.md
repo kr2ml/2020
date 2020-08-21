@@ -11,7 +11,7 @@ We invite papers that describe innovative combinations of symbolic knowledge rep
 
 The KR2ML workshop is intended to provide a forum for discussing new approaches and challenges in integrating KRR and ML approaches, and for exchanging ideas about how to move the area forward. 
 
-### Topics of interest for all kinds of submissions include, but are not limited to:
+Topics of interest for all kinds of submissions include, but are not limited to:
 - Successful integrations of ML and KRR-based techniques.
 - Approaches that tackle problems in the integration of ML and KRR techniques (e.g., datasets).
 - ML-based solutions to problems in KRR systems, or the other way round.
