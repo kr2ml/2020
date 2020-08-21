@@ -56,11 +56,12 @@ TBD
 
 # Related Venues
 
-- [Workshop on Neural-Symbolic Learning and Reasoning (NeSys'19)](https://sites.google.com/view/nesy2019/home), see more on <http://www.neural-symbolic.org/>
+- [Automated Knowledge Base Construction (AKBC'20)](http://www.akbc.ws/2020/)
 - [Workshop on Semantic Deep Learning (SemDeep'20)](http://www.dfki.de/~declerck/semdeep-6/)
 - [Workshop on Deep Learning for Knowledge Graphs (DL4KG'20)](https://alammehwish.github.io/dl4kg_eswc_2020/)
 - [Workshop on Semantic Explainability (SEMEX'20)](http://www.semantic-explainability.com/)
 - [Workshop on Statistical Relational AI (StarAI'20)](http://www.starai.org/2020/)
-- [Automated Knowledge Base Construction (AKBC'20)](http://www.akbc.ws/2020/)
+- [Workshop on Neural-Symbolic Learning and Reasoning (NeSys'19)](https://sites.google.com/view/nesy2019/home), see more on <http://www.neural-symbolic.org/>
+
 
 Contact: <kr2ml.ws@gmail.com>.
