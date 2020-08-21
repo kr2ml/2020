@@ -24,7 +24,7 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
 # Speakers
 <meta name="thumbnail" content="./img/neurips-logo-new.jpg" />
 
-<div class="container" style="margin-top: 100px;">
+<div class="container" style="margin-top: 25px;">
   <div class="row">
   {% for p in site.data.speakers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
