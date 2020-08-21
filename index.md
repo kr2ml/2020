@@ -6,7 +6,6 @@ use-site-title: true
 ---
 
 <br />
-<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5f3db91ed400420012d0a68e&product=inline-share-buttons" async="async"></script>
 <div class="sharethis-inline-share-buttons"></div>
 
 # About
