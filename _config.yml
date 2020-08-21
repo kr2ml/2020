@@ -24,7 +24,7 @@ description: Knowledge Representation & Reasoning Meets Machine Learning
 # List of links in the navigation bar
 navbar-links:  
   Call: "cfp"
-  Dates: "#dates"
+  # Dates: "#dates"
   Speakers: "#speakers"
   # Papers: "papers"
   # Schedule: "schedule"
