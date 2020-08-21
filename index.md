@@ -19,6 +19,8 @@ Machine learning (ML) has seen a tremendous amount of recent success and has bee
 The focus of KR2ML is to initiate and continue discussions and collaborations between researchers from the two umbrella areas- KRR and ML. To encourage this interaction, the program features several invited talks of experienced researchers about challenges in the field as well as successful work in the area. A special key challenge session invites open discussion of major problems and opportunities. Some of the problems will be further highlighted in a discussion panel of prominent experts, which will also give attendees the opportunity to contribute. Finally, poster sessions throughout the day will provide room for presenting and discussing ongoing works and exploring possible collaborations; they will bestarted by one-minute spotlight talks highlighting the posters. We hope to attract many participants and will use a plenary format for the talks.
 -->
 
+<hr>
+
 # Speakers
 <meta name="thumbnail" content="./img/neurips-logo-new.jpg" />
 
@@ -39,6 +41,8 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
 {% include dates.md %} 
 -->
 
+<hr>
+
 # Organizers
 
 <!-- prettier-ignore -->
@@ -51,9 +55,12 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
   </div>
 </div>
 
+<hr>
+
 # Program Committee
 TBD
 
+<hr>
 
 # Related Venues
 
