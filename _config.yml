@@ -23,7 +23,7 @@ description: Knowledge Representation & Reasoning Meets Machine Learning
 
 # List of links in the navigation bar
 navbar-links:
-  About: "#about"
+  About: "https://kr2ml.github.io"
   Call: "cfp"
   Dates: "#dates"
   Speakers: "#speakers"
