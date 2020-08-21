@@ -8,9 +8,7 @@ use-site-title: true
 # Call for Papers
 
 **Submission:** October 02 (midnight Pacific Time) 
-
 **Notification:** October 23 
-
 **Workshop:** December 11/12 (tbd)
 
 We invite papers that describe innovative combinations of symbolic knowledge representation/reasoning approaches and learning: including new methodology, datasets, evaluations, surveys, reproduced results, and negative results.
@@ -23,9 +21,9 @@ Topics of interest for all kinds of submissions include, but are not limited to:
 - ML-based solutions to problems in KRR systems, or the other way round.
 - Applications in various domains (e.g., natural language processing, computer vision).
 
-<!--## Important Dates 
+<!-- ## Important Dates 
 
-{% include dates.md %}<!--
+{% include dates.md %} -->
 
 ## Submission Requirements
 
