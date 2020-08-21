@@ -1,4 +1,4 @@
 | ------------- |:-------------:|
-| **Submission** | ~~September 13~~ <span style="color:red">September 20</span> (midnight Pacific Time) |
-| **Notification** | September 30 |
-| **Workshop** | [December 13](https://neurips.cc/Conferences/2019/Schedule?showEvent=13169) |
+| **Submission** | October 02 (midnight Pacific Time) |
+| **Notification** | October 23 |
+| **Workshop** | [December 11/12 (tbd)](https://nips.cc/Conferences/2020/Schedule?showEvent=16122) |
