@@ -25,7 +25,7 @@ Topics of interest for all kinds of submissions include, but are not limited to:
 
 {% include dates.md %} -->
 
-## Submission Requirements
+### Submission Requirements
 
 Submissions to KR2ML 2020 are limited to 4 pages of content, but may contain an unlimited number of pages for references and appendices. The latter may not necessarily be read by the reviewers. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings, reproducibility information, etc.) that do not fit in the 4 pages. The submission process is double-blind.
 
