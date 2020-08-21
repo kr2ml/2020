@@ -36,8 +36,7 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
 </div>
 
 # Important Dates 
-TBD
-<!-- {% include dates.md %} -->
+{% include dates.md %} 
 
 # Organizers
 
