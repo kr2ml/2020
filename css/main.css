@@ -495,7 +495,7 @@ footer .theme-by {
   margin: 10px 0 0;
 }
 .intro-header .post-heading .post-subheading {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
@@ -788,4 +788,7 @@ td.gutter {
   color: #808080;
   font-style: italic;
   font-size: 16px;
+}
+.post-heading {
+  color: #ff355e;
 }
