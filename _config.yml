@@ -24,10 +24,10 @@ description: Knowledge Representation & Reasoning Meets Machine Learning
 # List of links in the navigation bar
 navbar-links:
   About: "#about"
-  # Call: "cfp"
+  Call: "cfp"
+  Dates: "#dates"
   Speakers: "#speakers"
   # Papers: "papers"
-  # Dates: "#dates"
   # Schedule: "schedule"
   # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   # - Learn markdown: "http://www.markdowntutorial.com/"
