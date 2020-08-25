@@ -7,8 +7,8 @@ use-site-title: true
 
 # Call for Papers
 
-**Submission:** October 02 (midnight Pacific Time) <br>
-**Notification:** October 23 <br>
+**Submission:** October 09 (midnight Pacific Time) <br>
+**Notification:** October 30 <br>
 **Workshop:** December 11/12 (tbd)
 
 We invite papers that describe innovative combinations of symbolic knowledge representation/reasoning approaches and learning: including new methodology, datasets, evaluations, surveys, reproduced results, and negative results.
