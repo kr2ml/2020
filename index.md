@@ -22,6 +22,12 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
 
 <hr>
 
+# Call for Papers
+
+<div class="container" style="margin-bottom: 10px;"></div>
+[More](cfp.md)
+<hr>
+
 # Speakers
 <meta name="thumbnail" content="./img/neurips-logo-new.jpg" />
 
