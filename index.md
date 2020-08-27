@@ -24,7 +24,7 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
 
 # Call for Papers
 
-[More](cfp.md)
+[More Info](cfp.md)
 
 <div class="container" style="margin-bottom: 10px;"> </div>
 
