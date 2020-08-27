@@ -47,7 +47,6 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
 -->
 
 <hr>
-<div class="row" ></div>
 
 # Organizers
 
