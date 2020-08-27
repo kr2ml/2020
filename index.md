@@ -26,8 +26,7 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
 
 [More Info](cfp.md)
 
-<div class="container" style="margin-bottom: 10px;"> </div>
-
+<div class="container" style="margin-bottom: 7px;"> </div>
 
 <hr>
 
