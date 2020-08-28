@@ -4,14 +4,14 @@ title: KR2ML
 subtitle: Knowledge Representation & Reasoning Meets Machine Learning
 use-site-title: true
 ---
-
-<br />
 <div class="sharethis-inline-share-buttons"></div>
+<meta name="thumbnail" content="./img/neurips-logo-new.jpg" />
 
 # Overview
 
 Machine learning (ML) has seen a tremendous amount of recent success and has been applied in a variety of applications. However, it comes with several drawbacks, such as the need for large amounts of training data and the lack of explainability and verifiability of the results. In many domains, there is structured knowledge (e.g., from electronic health records, laws, clinical guidelines, or common sense knowledge) which can be leveraged for reasoning in an informed way (i.e., including the information encoded in the knowledge representation itself) in order to obtain high quality answers. Symbolic approaches for knowledge representation and reasoning (KR) are less prominent today - mainly due to their lack of scalability - but their strength lies in the verifiable and interpretable reasoning that can be accomplished. This workshop aims at the intersection of these two sub-fields of AI, and hopes to shine a light on the synergies that exist between KRR and ML. The 4th KR2ML workshop will be a [virtual workshop at NeurIPS 2020](https://nips.cc/Conferences/2020/Schedule?showEvent=16122), December 11/12 (tbd). Our goal is to advance the general discussion of the topic by highlighting contributions proposing innovative approaches integrating KRR and ML.
 
+### [Call for Papers](cfp.md)
 <div class="container" style="margin-bottom: 10px;"></div>
 <!--
 
@@ -22,23 +22,21 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
 
 <hr>
 
-# Call for Papers
-
-[More Info](cfp.md)
-
-<hr>
-
 # Speakers
-<meta name="thumbnail" content="./img/neurips-logo-new.jpg" />
-
-<div class="container" style="margin-top: 25px;margin-bottom: 40px;">
+<div class="container" style="margin-top: 5px;margin-bottom: 0px;">
   <div class="row">
   {% for p in site.data.speakers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
   {% include profile.html p=p %}
   {% endfor %}
   </div>
+<a href="speakers">More Info</a>
 </div>
+
+
+<!-- <hr> -->
+
+
 
 <!--
 # Important Dates 
