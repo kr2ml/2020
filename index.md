@@ -27,7 +27,7 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
 <hr>
 
 # Speakers
-<div class="container" style="margin-top: 5px;margin-bottom: 0px;">
+<div class="container" style="margin-top: 25px;margin-bottom: 0px;">
   <div class="row">
   {% for p in site.data.speakers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
