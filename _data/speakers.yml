@@ -16,6 +16,12 @@ jleskt:
   affiliation: "Stanford University"
   img: "jure.jpg"
   bio: "Jure Leskovec is an associate professor of Computer Science at Stanford University, the Chief Scientist at Pinterest, and an Investigator at the Chan Zuckerberg Biohub. He was the co-founder of a machine learning startup Kosei, which was later acquired by Pinterest. Leskovec's research area is machine learning and data science for complex, richly-labeled relational structures, graphs, and networks for systems at all scales, from interactions of proteins in a cell to interactions between humans in a society. Applications include commonsense reasoning, recommender systems, social network analysis, computational social science, and computational biology with an emphasis on drug discovery. This research has won several awards including a Lagrange Prize, Microsoft Research Faculty Fellowship, the Alfred P. Sloan Fellowship, and numerous best paper and test of time awards. It has also been featured in popular press outlets such as the New York Times and the Wall Street Journal. Leskovec received his bachelor's degree in computer science from University of Ljubljana, Slovenia, PhD in machine learning from Carnegie Mellon University and postdoctoral training at Cornell University. "
+vlin:
+  name: "Victoria Lin"
+  url: "http://victorialin.net/"
+  affiliation: "Salesforce Research"
+  img: "victoria.jpg"
+  bio: "Victoria Lin is a senior research scientist at Salesforce AI Research in Palo Alto. Her primary research interests center around the intersection of natural language and structured data, which include jointly reasoning over and translation between the two modalities. Lately she has been focusing on natural language based database querying, which requires the understanding of user utterances grounded in complex database structures. Prior to joining Salesforce in 2017, she was a graduate student in computer science at the University of Washington, where she introduced NL2Bash, a popular benchmark for building natural language shells."
 rockt:
   name: "Tim Rocktäschel"
   url: "https://rockt.github.io/"
