@@ -9,7 +9,7 @@ use-site-title: true
 
 **Submission:** October 09 (midnight Pacific Time) <br>
 **Notification:** October 30 <br>
-**Workshop:** December 11/12 (tbd)
+**Workshop:** December 11
 
 We invite papers that describe innovative combinations of symbolic knowledge representation/reasoning approaches and learning: including new methodology, datasets, evaluations, surveys, reproduced results, and negative results.
 
