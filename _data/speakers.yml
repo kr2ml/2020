@@ -1,3 +1,9 @@
+ybengio:
+    name: "Yoshua Bengio"
+    url: "https://yoshuabengio.org/"
+    affiliation: "Mila, Université de Montréal"
+    img: "yoshua.jpg"
+    bio: "Yoshua Bengio is Professor in the Computer Science and Operations Research departments at U. Montreal, founder and scientific director of Mila and of IVADO. He is a Fellow of the Royal Society of London and of the Royal Society of Canada, has received a Canada Research Chair and a Canada CIFAR AI Chair and is a recipient of the 2018 Turing Award for pioneering deep learning, is an officer of the Order of Canada, a member of the NeurIPS advisory board, co-founder and member of the board of the ICLR conference, and program director of the CIFAR program on Learning in Machines and Brains. His goal is to contribute to uncovering the principles giving rise to intelligence through learning, as well as favour the development of AI for the benefit of all."
 oetzioni:
     name: "Oren Etzioni"
     url: "https://allenai.org/team/orene/"
