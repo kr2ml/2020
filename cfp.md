@@ -18,7 +18,10 @@ Topics of interest for all kinds of submissions include, but are not limited to:
 
 ### Important Dates 
 
-{% include dates.md %}
+<!--{% include dates.md %}-->
+**Submission:** October 09 (midnight Pacific Time) <br>
+**Notification:** October 30 <br>
+**Workshop:** December 11
 
 ### Submission Requirements
 
