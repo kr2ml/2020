@@ -10,20 +10,17 @@ use-site-title: true
 # Overview
 
 Machine learning (ML) has seen a tremendous amount of recent success and has been applied in a variety of applications. However, it comes with several drawbacks, such as the need for large amounts of training data and the lack of explainability and verifiability of the results. In many domains, there is structured knowledge (e.g., from electronic health records, laws, clinical guidelines, or common sense knowledge) which can be leveraged for reasoning in an informed way (i.e., including the information encoded in the knowledge representation itself) in order to obtain high quality answers. Symbolic approaches for knowledge representation and reasoning (KRR) are less prominent today - mainly due to their lack of scalability - but their strength lies in the verifiable and interpretable reasoning that can be accomplished. This workshop aims at the intersection of these two sub-fields of AI, and hopes to shine a light on the synergies that exist between KRR and ML. The 4th KR2ML workshop will be a [virtual workshop at NeurIPS 2020](https://nips.cc/Conferences/2020/Schedule?showEvent=16122), Dec. 11. Our goal is to advance the general discussion of the topic by highlighting contributions proposing innovative approaches integrating KRR and ML.
-<div class="container" style="margin-top: 0px;margin-bottom: 10px;">
+
+| ------------- |:-------------:|
+| **Submission** | October 09, 2020 (midnight Pacific Time) |
+| **Notification** | October 30, 2020 |
+| **Submission link**| [https://cmt3.research.microsoft.com/KR2ML2020](https://cmt3.research.microsoft.com/KR2ML2020) 
+
 * Thank you Amazon for sponsoring a best paper award!
-<br>* The 3 best papers will be presented in talks at the workshop! 
-<br>* <a href="cfp">Call for Papers</a> 
-</div>
-<!--
-### [Call for Papers](cfp.md)
-<div class="container" style="margin-bottom: 10px;"></div>
+* The 3 best papers will be presented in talks at the workshop! 
+* <a href="cfp">Call for Papers</a> 
 
 
-# Program
-
-The focus of KR2ML is to initiate and continue discussions and collaborations between researchers from the two umbrella areas- KRR and ML. To encourage this interaction, the program features several invited talks of experienced researchers about challenges in the field as well as successful work in the area. A special key challenge session invites open discussion of major problems and opportunities. Some of the problems will be further highlighted in a discussion panel of prominent experts, which will also give attendees the opportunity to contribute. Finally, poster sessions throughout the day will provide room for presenting and discussing ongoing works and exploring possible collaborations; they will bestarted by one-minute spotlight talks highlighting the posters. We hope to attract many participants and will use a plenary format for the talks.
--->
 
 <hr>
 
@@ -47,17 +44,6 @@ The focus of KR2ML is to initiate and continue discussions and collaborations be
   </div>
 <a href="speakers">More Info</a>
 </div>
-
-
-<!-- <hr> -->
-
-
-
-<!--
-# Important Dates 
-
-{% include dates.md %} 
--->
 
 <hr>
 

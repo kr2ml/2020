@@ -6,11 +6,6 @@ use-site-title: true
 ---
 
 # Call for Papers
-
-**Submission:** October 09 (midnight Pacific Time) <br>
-**Notification:** October 30 <br>
-**Workshop:** December 11
-
 We invite papers that describe innovative combinations of symbolic knowledge representation/reasoning approaches and learning: including new methodology, datasets, evaluations, surveys, reproduced results, and negative results.
 
 The KR2ML workshop is intended to provide a forum for discussing new approaches and challenges in integrating KRR and ML approaches, and for exchanging ideas about how to move the area forward. 
@@ -21,9 +16,9 @@ Topics of interest for all kinds of submissions include, but are not limited to:
 - ML-based solutions to problems in KRR systems, or the other way round.
 - Applications in various domains (e.g., natural language processing, computer vision).
 
-<!-- ## Important Dates 
+### Important Dates 
 
-{% include dates.md %} -->
+{% include dates.md %}
 
 ### Submission Requirements
 
@@ -33,8 +28,14 @@ All submissions must be formatted with LaTeX using the [NeurIPS paper format](ht
 
 All accepted papers will be presented in a virtual poster session, and some will be selected for oral presentation. We welcome articles currently under review or papers planned for publication elsewhere. However, papers that have been published at an ML conference should not be submitted. Accepted papers will be published on the KR2ML homepage, but are to be considered non-archival. 
 
-Submission Link: tbd
+Submission Link: [https://cmt3.research.microsoft.com/KR2ML2020](https://cmt3.research.microsoft.com/KR2ML2020 )
 
 Please email any enquiries to [kr2ml.ws@gmail.com](mailto:kr2ml.ws@gmail.com)
+
+### Best Paper Awards
+Three best paper awards will selected, based on scientific merit, impact, and clarity. A $500.00 USD cash prize will be awarded to the 1st prize best paper. Best paper awards are nominated by program committee and judged by the Best Paper award committee. 
+
+Award sponsor:<br>
+<a href='https://www.amazon.science/'><img src="{{site.url}}/2020/img/amazon_science.png" height="140px"></a>
 
 
