@@ -25,7 +25,7 @@ description: Knowledge Representation & Reasoning Meets Machine Learning
 navbar-links:  
   Call: "cfp"
   # Dates: "#dates"
-  Speakers: "#speakers"
+  Speakers: "speakers"
   # Papers: "papers"
   # Schedule: "schedule"
   # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
