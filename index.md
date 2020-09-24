@@ -11,10 +11,10 @@ use-site-title: true
 
 Machine learning (ML) has seen a tremendous amount of recent success and has been applied in a variety of applications. However, it comes with several drawbacks, such as the need for large amounts of training data and the lack of explainability and verifiability of the results. In many domains, there is structured knowledge (e.g., from electronic health records, laws, clinical guidelines, or common sense knowledge) which can be leveraged for reasoning in an informed way (i.e., including the information encoded in the knowledge representation itself) in order to obtain high quality answers. Symbolic approaches for knowledge representation and reasoning (KRR) are less prominent today - mainly due to their lack of scalability - but their strength lies in the verifiable and interpretable reasoning that can be accomplished. This workshop aims at the intersection of these two sub-fields of AI, and hopes to shine a light on the synergies that exist between KRR and ML. The 4th KR2ML workshop will be a [virtual workshop at NeurIPS 2020](https://nips.cc/Conferences/2020/Schedule?showEvent=16122), Dec. 11. Our goal is to advance the general discussion of the topic by highlighting contributions proposing innovative approaches integrating KRR and ML.
 
-| ------------- |:-------------:|
+<!-- | ------------- |:-------------:|
 | **Submission** | October 09, 2020 (midnight Pacific Time) |
 | **Notification** | October 30, 2020 |
-| **Submission link**| [https://cmt3.research.microsoft.com/KR2ML2020](https://cmt3.research.microsoft.com/KR2ML2020) 
+| **Submission link**| [https://cmt3.research.microsoft.com/KR2ML2020](https://cmt3.research.microsoft.com/KR2ML2020) -->
 
 * Thank you Amazon for sponsoring a best paper award!
 * The 3 best papers will be presented in talks at the workshop! 
