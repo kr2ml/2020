@@ -19,7 +19,7 @@ Machine learning (ML) has seen a tremendous amount of recent success and has bee
 * Thank you Amazon for sponsoring a best paper award!
 * The 3 best papers will be presented in talks at the workshop! 
 * <a href="cfp">Call for Papers</a> 
-
+* **NEW** Updates to submissions possible until October 12 (midnight Pacific Time)
 
 
 <hr>
