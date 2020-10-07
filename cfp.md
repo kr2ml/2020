@@ -20,6 +20,7 @@ Topics of interest for all kinds of submissions include, but are not limited to:
 
 <!--{% include dates.md %}-->
 **Submission:** October 09 (midnight Pacific Time) <br>
+**Updates possible until October 12 (midnight Pacific Time)** <br>
 **Notification:** October 30 <br>
 **Workshop:** December 11
 
