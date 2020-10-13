@@ -19,8 +19,8 @@ Topics of interest for all kinds of submissions include, but are not limited to:
 ### Important Dates 
 
 <!--{% include dates.md %}-->
-**Submission:** <s>October 09 (11:59pm Pacific Time)</s> <br>
-<s>*Updates to existing papers possible until October 12 (11:59pm Pacific Time)*</s> <br>
+**Submission:** October 09 (11:59pm Pacific Time) <br>
+*Updates to existing papers possible until October 12 (11:59pm Pacific Time)*<br>
 **Notification:** October 30 <br>
 **Workshop:** December 11
 
