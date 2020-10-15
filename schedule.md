@@ -5,11 +5,13 @@ subtitle: Knowledge Representation & Reasoning Meets Machine Learning
 use-site-title: true
 ---
 
-# Schedule
+# Schedule (preliminary)
 
-#### Friday, December 13, 2019
-#### Location: West 109 + 110, Area West Level 1
-#### Live Video Stream: [link](https://slideslive.com/neurips/neurips-2019-west-109-110-live)
+#### Friday, December 11, 2020 
+#### All times are in PST (UTC -8)
+<!-- #### Location: West 109 + 110, Area West Level 1 -->
+<!-- #### Live Video Stream: [link](https://slideslive.com/neurips/neurips-2019-west-109-110-live) -->
+
 
 <div class="container">
   <div class="row">
@@ -21,10 +23,10 @@ use-site-title: true
           <td>{{ s[1].event }}</td>
           <td></td>
         {% elsif s[1].type == "Invited" %}
-          <td class="success"><b>Invited Talk</b></td>
+          <td >Invited Talk</td>
           {% assign speaker_id = s[1].event %}
           {% assign speaker = site.data.speakers[speaker_id] %}
-          <td class="success">
+          <td >
           <a href="{{speaker.url}}">{{ speaker.name }}</a>, {{speaker.affiliation}}
           {% if speaker.title == "TBA" %}
           {% else %}
@@ -32,7 +34,7 @@ use-site-title: true
           {% endif %}
           </td>
         {% elsif s[1].type == "Contributed" %}
-          <td><i>Contributed Talk</i></td>
+          <td>Contributed Talk</td>
           {% assign paper_id = s[1].event %}
           {% assign paper = site.data.papers[paper_id] %}
           <td>
@@ -48,15 +50,24 @@ use-site-title: true
               (<a href="{{ site.baseurl }}/papers/KR2ML_2019_{{ paper_id }}.pdf">PDF</a>)
             {% elsif paper.alt_url == "NONE" %}
             {% else %}
-              (<a href="{{ paper.alt_url }}">PDF</a>)
+              <!-- (<a href="{{ paper.alt_url }}">PDF</a>) -->
             {% endif %}
           </td>
         {% elsif s[1].type == "Spotlights" %}
           <td>Spotlights</td>
           <td><a href="#{{s[0]}}">{{ s[1].event }}</a></td>
         {% elsif s[1].type == "Break" %}
-          <td class="info"></td>
           <td class="info">{{ s[1].event }}</td>
+          <td class="info"></td>
+        {% elsif s[1].type == "Session" %}
+          <td><b>{{ s[1].event }}</b></td>
+          <td></td>
+        {% elsif s[1].type == "None" %}
+          <td ></td>
+          <td >{{ s[1].event }}</td>
+        {% elsif s[1].type == "Panel" %}
+          <td >Discussion Panel</td>
+          <td ><i>{{ s[1].event }}</i><br>{{ s[1].speakers }}</td>
         {% endif %}
 
         <!-- <td>
@@ -68,7 +79,7 @@ use-site-title: true
     </table>
   </div>
 
-<h1 id="spotlightsA"> Spotlights A </h1>
+<!-- <h1 id="spotlightsA"> Spotlights A </h1>
 
   {% assign spotlightApapers = "paper_2, paper_3, paper_5, paper_6, paper_8, paper_11, paper_12, paper_17, paper_21, paper_22, paper_23, paper_26, paper_27, paper_28, paper_29, paper_31, paper_34, paper_36, paper_39, paper_40, paper_42, paper_44" | split: ", " %}
 
@@ -111,4 +122,4 @@ use-site-title: true
     </ol>
   </div>
 
-</div>
+</div> -->

@@ -1,96 +1,159 @@
 opening:
-  event: "Opening Remarks"
-  start: "8:00"
+  event: "Opening"
+  start: "09:00"
   type: "General"
-wcohen:
-  event: "wcohen"
-  start: "8:05"
+sess1:
+  event: "Session 1"
+  start: ""
+  type: "Session"
+oetzioni:
+  event: "oetzioni"
+  start: "09:05"
   type: "Invited"
+vlin:
+  event: "vlin"
+  start: "09:35"
+  type: "Invited"
+rockt:
+  event: "rockt"
+  start: "10:05"
+  type: "Invited"
+qa1:
+  event: "QA"
+  start: "10:35"
+  type: "General"
+break1:
+  event: "Break"
+  start: "10:50"
+  type: "Break"
+sess2:
+  event: "Session 2"
+  start: ""
+  type: "Session"
+# contrib2:
+#   event: "paper_13"
+#   start: "8:50"
+#   type: "Contributed"
+# contrib3:
+#   event: "paper_18"
+#   start: "9:05"
+#   type: "Contributed"
+# spotlightsA:
+#   event: "Poster Spotlights A"
+#   start: "9:20"
+#   type: "Spotlights"
+jleskt:
+  event: "jleskt"
+  start: "11:05"
+  type: "Invited"
+hji:
+  event: "hji"
+  start: "11:35"
+  type: "Invited"
+jwu:
+  event: "jwu"
+  start: "12:05"
+  type: "Invited"
+qa2:
+  event: "QA"
+  start: "12:35"
+  type: "General"
+break2:
+  event: "Break"
+  start: "12:50"
+  type: "Break"
+
+sess3:
+  event: "Session 3"
+  start: ""
+  type: "Session"
+panel1:
+  event: "How a historical perspective on artificial and human intelligence can influence AI going ahead."
+  speakers: "Daniel Kahnemann, Henry Kautz, Luis Lamb, Gary Marcus, Francesca Rossi."
+  start: "14:00"
+  type: "Panel"
+contrib0:
+  event: ""
+  start: "14:45"
+  type: "Contributed"
 contrib1:
-  event: "paper_7"
-  start: "8:35"
+  event: ""
+  start: "15:00"
   type: "Contributed"
 contrib2:
-  event: "paper_13"
-  start: "8:50"
+  event: ""
+  start: "15:15"
   type: "Contributed"
-contrib3:
-  event: "paper_18"
-  start: "9:05"
-  type: "Contributed"
-spotlightsA:
-  event: "Poster Spotlights A"
-  start: "9:20"
-  type: "Spotlights"
-break1:
-  event: "Coffee + Poster Session"
-  start: "9:45"
-  type: "Break"
-ldong:
-  event: "ldong"
-  start: "10:30"
-  type: "Invited"
-contrib4:
-  event: "paper_16"
-  start: "11:00"
-  type: "Contributed"
-contrib5:
-  event: "paper_25"
-  start: "11:15"
-  type: "Contributed"
-contrib6:
-  event: "paper_47"
-  start: "11:30"
-  type: "Contributed"
-contrib7:
-  event: "paper_35"
-  start: "11:45"
-  type: "Contributed"
-svivek:
-  event: "svivek"
-  start: "12:00"
-  type: "Invited"
-lunch:
-  event: "Lunch"
-  start: "12:30"
-  type: "Break"
-frossi:
-  event: "frossi"
-  start: "2:00"
-  type: "Invited"
-contrib8:
-  event: "paper_52"
-  start: "2:30"
-  type: "Contributed"
-contrib9:
-  event: "paper_19"
-  start: "2:45"
-  type: "Contributed"
-contrib10:
-  event: "paper_4"
-  start: "3:00"
-  type: "Contributed"
-spotlightsB:
-  event: "Poster Spotlights B"
-  start: "3:15"
-  type: "Spotlights"
-break:
-  event: "Coffee + Poster Session"
-  start: "3:30"
-  type: "Break"
-guyvdb:
-  event: "yejin"
-  start: "4:15"
-  type: "Invited"
-yejin:
-  event: "guyvdb"
-  start: "4:45"
-  type: "Invited"
-panel:
-  event: "Discussion Panel"
-  start: "5:15"
+qa3:
+  event: "QA"
+  start: "15:30"
   type: "General"
+break3:
+  event: "Break"
+  start: "15:45"
+  type: "Break"
+# contrib7:
+#   event: "paper_35"
+#   start: "11:45"
+#   type: "Contributed"
+# svivek:
+#   event: "svivek"
+#   start: "12:00"
+#   type: "Invited"
+# lunch:
+#   event: "Lunch"
+#   start: "12:30"
+#   type: "Break"
+# frossi:
+#   event: "frossi"
+#   start: "2:00"
+#   type: "Invited"
+# contrib8:
+#   event: "paper_52"
+#   start: "2:30"
+#   type: "Contributed"
+# contrib9:
+#   event: "paper_19"
+#   start: "2:45"
+#   type: "Contributed"
+# contrib10:
+#   event: "paper_4"
+#   start: "3:00"
+#   type: "Contributed"
+# spotlightsB:
+#   event: "Poster Spotlights B"
+#   start: "3:15"
+#   type: "Spotlights"
+# break:
+#   event: "Coffee + Poster Session"
+#   start: "3:30"
+#   type: "Break"
+# guyvdb:
+#   event: "yejin"
+#   start: "4:15"
+#   type: "Invited"
+# yejin:
+#   event: "guyvdb"
+#   start: "4:45"
+#   type: "Invited"
+sess4:
+  event: "Session 4"
+  start: ""
+  type: "Session"
+ybengio:
+  event: "ybengio"
+  start: "16:00"
+  type: "Invited"
+panel2:
+  event: "Where and how can KRR benefit ML, and what should be explored?"
+  speakers: "Oren Etzioni, Heng Ji, Jure Leskovec, Victoria Lin, Jiajun Wu."
+  start: "16:35"
+  type: "Panel"
 closing:
   event: "Closing Remarks"
-  start: "5:55"
+  start: "17:20"
+  type: "General"
+poster:
+  event: "Poster Teasers + Chats"
+  start: "17:25"
   type: "General"
