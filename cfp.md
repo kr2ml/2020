@@ -28,7 +28,7 @@ Topics of interest for all kinds of submissions include, but are not limited to:
 
 Submissions to KR2ML 2020 are limited to 4 pages of content, but may contain an unlimited number of pages for references and appendices. The latter may not necessarily be read by the reviewers. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings, reproducibility information, etc.) that do not fit in the 4 pages. The submission process is double-blind.
 
-All submissions must be formatted with LaTeX using the [NeurIPS paper format (adapted)]({site.url}/2020/img/KR2ML2020_template.zip).
+All submissions must be formatted with LaTeX using the [NeurIPS paper format (adapted)](img/KR2ML2020_template.zip).
 
 All accepted papers will be presented in a virtual poster session, and some will be selected for oral presentation. We welcome articles currently under review or papers planned for publication elsewhere. However, papers that have been published at an ML conference should not be submitted. Accepted papers will be published on the KR2ML homepage, but are to be considered non-archival. 
 
