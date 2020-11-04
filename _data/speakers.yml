@@ -40,3 +40,32 @@ jwu:
   affiliation: "Stanford University"
   img: "jwu.jpg"
   bio: "Jiajun Wu is an Assistant Professor of Computer Science at Stanford University, working on computer vision, machine learning, and computational cognitive science. Before joining Stanford, he was a Visiting Faculty Researcher at Google Research. He received his PhD in Electrical Engineering and Computer Science at Massachusetts Institute of Technology and undergraduate degrees in Computer Science and in Economics at Tsinghua University. Wu's research has been recognized through the ACM Doctoral Dissertation Award Honorable Mention, the MIT George M. Sprowls PhD Thesis Award in Artificial Intelligence and Decision-Making, the IROS Best Paper Award on Cognitive Robotics, and fellowships from Facebook, Nvidia, Samsung, and Adobe."
+kahneman:
+  name: "Daniel Kahneman"
+  url: "https://scholar.princeton.edu/kahneman"
+  affiliation: "Princeton University"
+  img: "kahneman.jpg"
+  bio: ""
+kautz:
+  name: "Henry Kautz"
+  url: "https://www.cs.rochester.edu/u/kautz/"
+  affiliation: "National Science Foundation & University of Rochester"
+  img: "kautz.jpg"
+  bio: ""
+lamb:
+  name: "Luís C. Lamb"
+  url: "http://www.inf.ufrgs.br/~lamb/"
+  affiliation: "UFRGS"
+  img: "lamb.png"
+  bio: ""
+marcus:
+  name: "Gary Marcus"
+  url: "http://garymarcus.com/"
+  affiliation: "NYU"
+  img: "gmarcus.jpg"
+  bio: ""
+rossi:
+  name: "Francesca Rossi"
+  url: "https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Francesca.Rossi2"
+  affiliation: "IBM"
+  img: "rossi.jpg"

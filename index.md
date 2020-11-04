@@ -37,7 +37,15 @@ Machine learning (ML) has seen a tremendous amount of recent success and has bee
   <div class="row">
   {% for p in site.data.speakers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>4 %}
+  {% if forloop.index>4 and forloop.index<8%}
+  {% include profile.html p=p %}
+  {% endif %}
+  {% endfor %}
+  </div>
+  <div class="row">
+  {% for p in site.data.speakers %}
+  {% capture id %}{{ p[0] }}{% endcapture %}
+  {% if forloop.index>7 %}
   {% include profile.html p=p %}
   {% endif %}
   {% endfor %}
