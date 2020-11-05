@@ -66,13 +66,18 @@ Machine learning (ML) has seen a tremendous amount of recent success and has bee
     {% endfor %}
   </div>
 </div>
-
 <hr>
 
-<!-- # Program Committee -->
-<!-- TBD -->
-<!--  -->
-<!-- <hr> -->
+# Program Committee
+<!-- prettier-ignore -->
+<div class="container">
+  <ul class="list-group list-group-flush">
+    {% for p in site.data.pc.people %}
+      <li class="list-group-item col-xs-6 col-sm-4 col-md-3">{{ p }}</li>
+    {% endfor %}
+  </ul>
+</div>
+<hr>
 
 # Related Venues
 
