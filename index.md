@@ -24,7 +24,7 @@ Machine learning (ML) has seen a tremendous amount of recent success and has bee
 
 <hr>
 
-# Speakers
+# Speakers & Panelists
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
   {% for p in site.data.speakers %}
