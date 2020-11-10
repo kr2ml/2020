@@ -19,6 +19,7 @@ Machine learning (ML) has seen a tremendous amount of recent success and has bee
 * Thank you Amazon for sponsoring a best paper award!
 * The 3 best papers will be presented in talks at the workshop! 
 * <a href="schedule">A preliminary schedule is online now!</a> 
+* <a href="papers">List of accepted papers available!</a> 
 <!--* **NEW** Updates to existing submissions possible until October 12 (11:59pm Pacific Time) <br>New submissions close on October 09 (11:59pm Pacific Time)-->
 
 
@@ -37,7 +38,7 @@ Machine learning (ML) has seen a tremendous amount of recent success and has bee
   <div class="row">
   {% for p in site.data.speakers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>4 and forloop.index<8%}
+  {% if forloop.index>4 and forloop.index<9%}
   {% include profile.html p=p %}
   {% endif %}
   {% endfor %}
@@ -45,7 +46,7 @@ Machine learning (ML) has seen a tremendous amount of recent success and has bee
   <div class="row">
   {% for p in site.data.speakers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>7 %}
+  {% if forloop.index>8 %}
   {% include profile.html p=p %}
   {% endif %}
   {% endfor %}

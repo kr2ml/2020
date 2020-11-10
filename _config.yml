@@ -26,7 +26,7 @@ navbar-links:
   Call: "cfp"
   # Dates: "#dates"
   Speakers: "speakers"
-  # Papers: "papers"
+  Papers: "papers"
   Schedule: "schedule"
   # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   # - Learn markdown: "http://www.markdowntutorial.com/"
