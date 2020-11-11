@@ -8,6 +8,11 @@ paper_4:
   title: "Learning Implicitly with Noisy Data in Linear Arithmetic"
   alt_url: ""
 
+paper_6: 
+  authors: "Agnieszka Dobrowolska; Antonio Vergari; Pasquale Minervini"
+  title: Neural Concept Formation in Knowledge Graphs"
+  alt_url: ""
+
 paper_7:
   authors: "Tara L Safavi; Danai Koutra"
   title: "Generating Negative Commonsense Knowledge"
@@ -53,6 +58,11 @@ paper_20:
   title: "Graph Embedding Priors for Multi-task DeepReinforcement Learning"
   alt_url: ""
 
+paper_22:
+  authors: "Maayan Shvo; Andrew Li; Rodrigo Toro Icarte; Sheila A. McIlraith"
+  title: "Learning Interpretable Models for Sequence Classification via Discrete Optimization (Abridged Report)"
+  alt_url: ""
+
 paper_25:
   authors: "Hongyu Ren; Hanjun Dai; Bo Dai; Xinyun Chen; Jure Leskovec; Denny Zhou"
   title: "Latent Execution-Guided Reasoning for Multi-Hop Question Answering on Knowledge Graphs"
@@ -74,7 +84,7 @@ paper_33:
   alt_url: ""
 
 paper_34:
-  authors: "Sheila A. McIlraith; Le—n Illanes; Rodrigo A Toro Icarte"
+  authors: "Sheila A. McIlraith; Le—n Illanes; Rodrigo Toro Icarte"
   title: "Symbolic Plans as High-Level Instructions for Reinforcement Learning"
   alt_url: ""
 
