@@ -146,7 +146,7 @@ ybengio:
   type: "Invited"
 panel2:
   event: "Where and how can KRR benefit ML, and what should be explored?"
-  speakers: "Oren Etzioni, Heng Ji, Victoria Lin, Jiajun Wu."
+  speakers: "Oren Etzioni, Heng Ji, Victoria Lin, Jiajun Wu, Subbarao Kambhampati."
   start: "16:35"
   type: "Panel"
 closing:
