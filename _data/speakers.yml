@@ -69,3 +69,9 @@ rossi:
   url: "https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Francesca.Rossi2"
   affiliation: "IBM"
   img: "rossi.jpg"
+rao:
+  name: "Subbarao Kambhampati"
+  url: "http://rakaposhi.eas.asu.edu/"
+  affiliation: "Arizona State University"
+  img: "rao.png"
+  bio: ""
