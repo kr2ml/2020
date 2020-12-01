@@ -85,11 +85,11 @@ Jupinder Parmar; William Koehler; Martin Bringmann; Katharina Volz; Berk Kapicio
 <br>  
 14. <b>Re-TACRED: A New Relation Extraction Dataset</b><br><i>
 George I Stoica; Emmanouil Antonios Platanios; Barnabas Poczos</i>
-[<a href="{{ site.baseurl }}/papers/KR2ML_12_paper.pdf">Paper</a>]
+[<a href="{{ site.baseurl }}/papers/KR2ML_12_paper.pdf">Paper</a>][<a href="{{ site.baseurl }}/papers/KR2ML_12_poster.pdf">Poster</a>]
 <br>  
 15. <b>Knowledge Graph Enhanced Relation Extraction</b><br><i>
 George I Stoica; Emmanouil Antonios Platanios; Barnabas Poczos</i>
-[<a href="{{ site.baseurl }}/papers/KR2ML_28_paper.pdf">Paper</a>]
+[<a href="{{ site.baseurl }}/papers/KR2ML_28_paper.pdf">Paper</a>][<a href="{{ site.baseurl }}/papers/KR2ML_28_poster.pdf">Poster</a>]
 <br>  
 
 <h3>New Architectures</h3>
