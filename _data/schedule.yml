@@ -69,7 +69,7 @@ sess3:
   type: "Session"
 panel1:
   event: "How a historical perspective on artificial and human intelligence can influence AI going ahead."
-  speakers: "Daniel Kahneman, Henry Kautz, Luis Lamb, Gary Marcus, Francesca Rossi."
+  speakers: "Daniel Kahneman, Henry Kautz, Luis Lamb, Gary Marcus, Yoshua Bengio, Francesca Rossi."
   start: "14:00"
   type: "Panel"
 contrib0:
