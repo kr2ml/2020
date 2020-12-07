@@ -62,6 +62,10 @@ break2:
   event: "Break"
   start: "12:50"
   type: "Break"
+poster:
+  event: "Poster Teasers + Chats"
+  start: "12:50"
+  type: "General"
 
 sess3:
   event: "Session 3"
@@ -152,8 +156,4 @@ panel2:
 closing:
   event: "Closing Remarks"
   start: "17:20"
-  type: "General"
-poster:
-  event: "Poster Teasers + Chats"
-  start: "17:25"
   type: "General"
