@@ -1,3 +1,7 @@
+teasers:
+  event: "Poster Teasers"
+  start: "08:40"
+  type: "General"
 opening:
   event: "Opening"
   start: "09:00"
@@ -44,10 +48,12 @@ sess2:
 #   type: "Spotlights"
 jleskt:
   event: "jleskt"
+  # title: "Reasoning in Knowledge Graphs using Embeddings"
   start: "11:05"
   type: "Invited"
 hji:
   event: "hji"
+  # title: "Bring Structures and Symbols back to Knowledge Representation"
   start: "11:35"
   type: "Invited"
 jwu:
@@ -59,14 +65,9 @@ qa2:
   start: "12:35"
   type: "General"
 break2:
-  event: "Break"
-  start: "12:50"
-  type: "Break"
-poster:
-  event: "Poster Teasers + Chats"
+  event: "Poster Session + Chats"
   start: "12:50"
   type: "General"
-
 sess3:
   event: "Session 3"
   start: ""
@@ -77,15 +78,18 @@ panel1:
   start: "14:00"
   type: "Panel"
 contrib0:
-  event: ""
+  event: "Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation."
+  author: "Mrigank Raman"
   start: "14:45"
   type: "Contributed"
 contrib1:
-  event: ""
+  event: "Symbolic Plans as High-Level Instructions for Reinforcement Learning (Abridged)."
+  author: "Leon Illanes"
   start: "15:00"
   type: "Contributed"
 contrib2:
-  event: ""
+  event: "Latent Execution-Guided Reasoning for Multi-Hop Question Answering on Knowledge Graphs."
+  author: "Hongyu Ren"
   start: "15:15"
   type: "Contributed"
 qa3:
