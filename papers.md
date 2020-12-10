@@ -105,9 +105,9 @@ Victor Kolev; Bogdan M Georgiev; Svetlin Penkov</i>
 Pashootan Vaezipoor; Gil Lederman; Yuhuai Wu; Chris Maddison; Roger B Grosse; Sanjit Seshia; Fahiem Bacchus</i>
 [<a href="{{ site.baseurl }}/papers/KR2ML_13_paper.pdf">Paper</a>][<a href="{{ site.baseurl }}/papers/KR2ML_13_poster.pdf">Poster</a>]
 <br>  
-20. <b>Learning Interpretable Models for Sequence Classification via Discrete Optimization (Abridged Report)</b><br><i>
+20. <b>Interpretable Sequence Classification via Discrete Optimization (Abridged Report)</b><br><i>
 Maayan Shvo; Andrew Li; Rodrigo Toro Icarte; Sheila A. McIlraith</i>
-[<a href="{{ site.baseurl }}/papers/KR2ML_22_paper.pdf">Paper</a>]
+[<a href="{{ site.baseurl }}/papers/KR2ML_22_paper.pdf">Paper</a>][<a href="{{ site.baseurl }}/papers/KR2ML_22_poster.pdf">Poster</a>]
 <br>  
   </ol>
 </div>
