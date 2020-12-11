@@ -12,14 +12,17 @@ sess1:
   type: "Session"
 oetzioni:
   event: "oetzioni"
+  title: "Revisiting McCarthy's Advice Taker"
   start: "09:05"
   type: "Invited"
 vlin:
   event: "vlin"
+  title: "Bridging Textual and Tabular Data: Is Attention All We Need?"
   start: "09:35"
   type: "Invited"
 rockt:
   event: "rockt"
+  title: "A Shot at Bridging the Knowledge Gap in Reinforcement Learning"
   start: "10:05"
   type: "Invited"
 qa1:
@@ -48,16 +51,17 @@ sess2:
 #   type: "Spotlights"
 jleskt:
   event: "jleskt"
-  # title: "Reasoning in Knowledge Graphs using Embeddings"
+  title: "Reasoning in Knowledge Graphs using Embeddings"
   start: "11:05"
   type: "Invited"
 hji:
   event: "hji"
-  # title: "Bring Structures and Symbols back to Knowledge Representation"
+  title: "Bring Structures and Symbols back to Knowledge Representation"
   start: "11:35"
   type: "Invited"
 jwu:
   event: "jwu"
+  title: "Neuro-Symbolic Visual Concept Learning"
   start: "12:05"
   type: "Invited"
 qa2:

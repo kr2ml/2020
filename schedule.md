@@ -27,6 +27,7 @@ use-site-title: true
           {% assign speaker_id = s[1].event %}
           {% assign speaker = site.data.speakers[speaker_id] %}
           <td >
+            <i>{{ s[1].title }}</i><br>
           <a href="{{speaker.url}}">{{ speaker.name }}</a>, {{speaker.affiliation}}
           {% if speaker.title == "TBA" %}
           {% else %}
