@@ -43,7 +43,7 @@ Osama F Rama; Alessandra Russo; Krysia Broda</i>
 <br>  
 
 <h3>KRR for Reinforcement Learning</h3>
-6. <b>Symbolic Plans as High-Level Instructions for Reinforcement Learning (Abridged)</b> (spotlight paper)<br><i>
+6. <b>Symbolic Plans as High-Level Instructions for Reinforcement Learning (Abridged)</b> (spotlight paper, best paper award)<br><i>
 Leon Illanes; Xi Yan; Rodrigo Toro Icarte; Sheila A. McIlraith</i>
 [<a href="{{ site.baseurl }}/papers/KR2ML_34_paper.pdf">Paper</a>][<a href="{{ site.baseurl }}/papers/KR2ML_34_poster.pdf">Poster</a>]
 <br>  
