@@ -16,9 +16,9 @@ Machine learning (ML) has seen a tremendous amount of recent success and has bee
 | **Notification** | October 30, 2020 |
 | **Submission link**| [https://cmt3.research.microsoft.com/KR2ML2020](https://cmt3.research.microsoft.com/KR2ML2020) -->
 
-* Thank you Amazon for sponsoring a best paper award!
-* The 3 best papers will be presented in talks at the workshop! 
-* <a href="schedule">The schedule is online now!</a> 
+* <a href="https://kr2ml.github.io/2020/papers/KR2ML_34_paper.pdf">The best paper award goes to "Symbolic Plans as High-Level Instructions for
+Reinforcement Learning (Abridged)"!</a> 
+* Thank you Amazon for sponsoring the award!
 * <a href="papers">List of accepted papers available!</a> 
 <!--* **NEW** Updates to existing submissions possible until October 12 (11:59pm Pacific Time) <br>New submissions close on October 09 (11:59pm Pacific Time)-->
 
